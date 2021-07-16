@@ -4,7 +4,7 @@ My name is Daniel!  I am a software engineer and an amateur **[ INSERT RANDOM HO
 
 -------
 *I am a student at Lambda School with a history in Digital Marketing / Advertising.  *
-
+-------
 ### Projects:
 ##### // Potluck Planner - [ Node.js ]:
 - Collaborated with back-end team to construct efficient architecture
