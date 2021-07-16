@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-####### My name is Daniel!  I am a software engineer and an amateur **[ INSERT RANDOM HOBBY HERE ]**.  I can have a conversation about anything and am obsessed with art&design 📐, nature 🌳, comedy :grinning:, travel :airplane:, and fish tacos :taco:.
+###### My name is Daniel!  I am a software engineer and an amateur **[ INSERT RANDOM HOBBY HERE ]**.  I can have a conversation about anything and am obsessed with art&design 📐, nature 🌳, comedy :grinning:, travel :airplane:, and fish tacos :taco:.
 
 <!--
 **danielbkim/danielbkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
