@@ -4,9 +4,8 @@ My name is Daniel!  I am a software engineer and an amateur **[ INSERT RANDOM HO
 1. art&design 📐
 2. nature 🌳
 3. comedy :grinning:
-3. travel :airplane:
-and
-4. fish tacos :taco:.
+4. travel :airplane:
+5. fish tacos :taco:.
 
 <!--
 **danielbkim/danielbkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
