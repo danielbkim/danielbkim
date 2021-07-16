@@ -1,26 +1,30 @@
 # Hi there! 👋
 
-My name is Daniel!  I am a software engineer and an amateur **[ INSERT RANDOM HOBBY HERE ]**.
+My name is Daniel!  I am a software engineer with a history in Digital Marketing / Advertising and an amateur **[ INSERT RANDOM HOBBY HERE ]**.
 
 -------
-*I am a student at Lambda School with a history in Digital Marketing / Advertising.  *
--------
+### Currently learning:
+- A variety of different front-end frameworks (i.e. Bulma, Svelte, Gatsby) to focus on building a more engaging User Interface for my portfolio.
+  - Bulma
+  - Svelte
+  - Gatsby
+<!--
 ### Projects:
-##### / Potluck Planner - *[ Node.js ]:*
+##### / Potluck Planner - *[ Node.js ]*:
 - Collaborated with back-end team to construct efficient architecture
 - Built out necessary endpoints
 - Developed entire documentation for front-end team to leverage endpoints to deliver appropriate data
 
-##### / Blue Witness - *[ Kanban board & Agile workflow ]:*
+##### / Blue Witness - *[ Kanban board & Agile workflow ]*:
 - Spearheaded all cross-functional team standups
 - Distributed tasks as main point-of-contact for each team
 - Kept team accountable by monitoring product deadlines closely
 
-##### / Water My Plants - *[ React.js ]:*
+##### / Water My Plants - *[ React.js ]*:
 - Contributed authentication form for users to gain access to app
 - Managed styling and positioning on assigned page
 - Connected with larger team to coordinate feature hand-off and consistency with product at-large
-
+-->
 -------
 I can have a conversation about anything and am obsessed with :
 - art&design 📐
