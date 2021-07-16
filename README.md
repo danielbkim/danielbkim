@@ -35,7 +35,7 @@ A variety of different front-end frameworks (i.e. Bulma, Svelte, Gatsby) to focu
 -------
 
 
-### Here are some places where you can find me 🕵️:
+### Here are some places where you can find me 🔍:
 - (Personal Blog)
 - (LinkedIn)
 - (Twitter)
