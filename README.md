@@ -2,6 +2,13 @@
 
 My name is Daniel!  I am a software engineer with a history in Digital Marketing / Advertising and an amateur **[ INSERT RANDOM HOBBY HERE ]**.
 
+I can have a conversation about anything and am obsessed with :
+- art&design 📐
+- nature 🌳
+- comedy :grinning:
+- travel :airplane:
+- fish tacos :taco:
+- many, many other things
 -------
 ### Currently learning:
 - A variety of different front-end frameworks (i.e. Bulma, Svelte, Gatsby) to focus on building a more engaging User Interface for my portfolio.
@@ -26,13 +33,7 @@ My name is Daniel!  I am a software engineer with a history in Digital Marketing
 - Connected with larger team to coordinate feature hand-off and consistency with product at-large
 -->
 -------
-I can have a conversation about anything and am obsessed with :
-- art&design 📐
-- nature 🌳
-- comedy :grinning:
-- travel :airplane:
-- fish tacos :taco:
-- many, many other things
+
 
 ### Here are some places where you can find me:
 - (Personal Blog)
