@@ -3,14 +3,15 @@
 My name is Daniel!  I am a software engineer and an amateur **[ INSERT RANDOM HOBBY HERE ]**.
 
 -------
-> *I am currently a student at Lambda School*
+*I am currently a student at Lambda School with a history in Digital Marketing / Advertising.  *
 
-I can have a conversation about anything and am obsessed with:
+I can have a conversation about anything and am obsessed with :
 - art&design 📐
 - nature 🌳
 - comedy :grinning:
 - travel :airplane:
 - fish tacos :taco:
+- many, many other things
 
 
 
