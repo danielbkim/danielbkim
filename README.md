@@ -9,7 +9,7 @@ I can have a conversation about anything and am obsessed with:
 2. nature 🌳
 3. comedy :grinning:
 4. travel :airplane:
-5. fish tacos :taco: [^1]
+5. fish tacos. [^1]
 [^1]: Battered baja-style fish tacos are the best kind, I don't care what anyone says.
 
 <!--
