@@ -11,10 +11,10 @@ I can have a conversation about anything and am obsessed with :
 - many, many other things
 -------
 ### Currently learning:
-- A variety of different front-end frameworks (i.e. Bulma, Svelte, Gatsby) to focus on building a more engaging User Interface for my portfolio.
-  - Bulma
-  - Svelte
-  - Gatsby
+A variety of different front-end frameworks (i.e. Bulma, Svelte, Gatsby) to focus on building a more engaging User Interface for my portfolio.
+- Bulma
+- Svelte
+- Gatsby
 <!--
 ### Projects:
 ##### / Potluck Planner - *[ Node.js ]*:
