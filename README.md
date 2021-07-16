@@ -9,8 +9,8 @@ I can have a conversation about anything and am obsessed with:
 2. nature 🌳
 3. comedy :grinning:
 4. travel :airplane:
-5. fish tacos :taco:.
-
+5. fish tacos :taco: [^1]
+[^1]: Battered baja-style fish tacos are the best kind, I don't care what anyone says.
 
 <!--
 **danielbkim/danielbkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
