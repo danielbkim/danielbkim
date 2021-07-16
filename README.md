@@ -3,7 +3,7 @@
 My name is Daniel!  I am a software engineer and an amateur **[ INSERT RANDOM HOBBY HERE ]**.
 
 -------
-*I am currently a student at Lambda School with a history in Digital Marketing / Advertising.*
+*I am a student at Lambda School with a history in Digital Marketing / Advertising.  *
 
 I can have a conversation about anything and am obsessed with :
 - art&design 📐
@@ -13,10 +13,10 @@ I can have a conversation about anything and am obsessed with :
 - fish tacos :taco:
 - many, many other things
 
-### Here are some places you can find me:
-- Personal Blog
-- LinkedIn
-- Twitter
+### Here are some places where you can find me:
+- (Personal Blog)
+- (LinkedIn)
+- (Twitter)
 
 <!--
 **danielbkim/danielbkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
