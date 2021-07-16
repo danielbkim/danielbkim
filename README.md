@@ -2,15 +2,15 @@
 
 My name is Daniel!  I am a software engineer and an amateur **[ INSERT RANDOM HOBBY HERE ]**.
 
-*I am currently a student at Lambda School*
+: *I am currently a student at Lambda School*
 
 I can have a conversation about anything and am obsessed with:
 1. art&design 📐
 2. nature 🌳
 3. comedy :grinning:
 4. travel :airplane:
-5. fish tacos. [^1]
-[^1]: Battered baja-style fish tacos are the best kind, I don't care what anyone says.
+5. fish tacos :taco:
+	![alt text]Battered baja-style fish tacos are the best kind, I don't care what anyone says.
 
 
 Here's a sentence with a footnote. [^1]
