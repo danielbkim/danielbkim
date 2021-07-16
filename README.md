@@ -1,6 +1,7 @@
 # Hi there! 👋
 
 My name is Daniel!  I am a software engineer and an amateur **[ INSERT RANDOM HOBBY HERE ]**.
+
 -------
 > *I am currently a student at Lambda School*
 
