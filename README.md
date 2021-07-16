@@ -13,7 +13,10 @@ I can have a conversation about anything and am obsessed with :
 - fish tacos :taco:
 - many, many other things
 
-
+### Here are some places you can find me:
+- Personal Blog
+- LinkedIn
+- Twitter
 
 <!--
 **danielbkim/danielbkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
