@@ -37,7 +37,9 @@ A variety of different front-end frameworks (i.e. Bulma, Svelte, Gatsby) to focu
 
 ### 🔎 Here are some places where you can find me:
 📝 [Personal Blog](https://medium.com/@trialsanderrors)
+<br />
 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-b-kim-a2b4032a/)
+<br />
 🐦 [Twitter](https://twitter.com/darnielbkerm)
 
 <!--
