@@ -5,7 +5,7 @@ My name is Daniel!  I am a software engineer with a history in Digital Media and
 I can have a conversation about anything and am obsessed with :
 - art & design 📐
 - nature 🌳
-- comedy :grinning:
+- cinema 🎞️:
 - travel :airplane:
 - fish tacos :taco:
 - many, many other things
