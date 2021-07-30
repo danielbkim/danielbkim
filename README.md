@@ -10,7 +10,7 @@ I can have a conversation about anything and am obsessed with :
 - fish tacos :taco:
 - many, many other things
 -------
-### 🧑‍💻 Skills:
+### 💻 Skills:
 Languages: Javascript, Python, HTML/CSS<br />
 Stack: React.js, Redux, Node.js, Express, PostgreSQL, Knex, Jest, Git, Docker, MaterialUI, Bootstrap
 
