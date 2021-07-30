@@ -16,7 +16,7 @@ Stack: React.js, Redux, Node.js, Express, PostgreSQL, Knex, Jest, Git, Docker, M
 
 -------
 ### 🧑‍💻 Currently learning:
-A variety of different front-end frameworks (i.e. Bulma, Svelte, Gatsby) to focus on building a more engaging User Interface for my portfolio.
+A variety of different front-end frameworks to focus on building a more engaging User Interface for my portfolio.
 - Bulma
 - Svelte
 - Gatsby
