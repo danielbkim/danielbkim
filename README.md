@@ -11,6 +11,8 @@ I can have a conversation about anything and am obsessed with :
 - many, many other things
 -------
 ### 🧑‍💻 Skills:
+Languages: Javascript, Python, HTML/CSS
+Stack: React.js, Redux, Node.js, Express, PostgreSQL, Knex, Jest, Git, Docker, MaterialUI, Bootstrap
 -------
 ### 🧑‍💻 Currently learning:
 A variety of different front-end frameworks (i.e. Bulma, Svelte, Gatsby) to focus on building a more engaging User Interface for my portfolio.
