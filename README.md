@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Daniel!  I am a software engineer with a history in Digital Media and an amateur **[ INSERT RANDOM HOBBY HERE ]**.
 
