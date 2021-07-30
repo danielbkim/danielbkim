@@ -2,7 +2,7 @@
 
 My name is Daniel!  I am a software engineer with a history in Digital Media and an amateur **[ INSERT RANDOM HOBBY HERE ]**.
 
-I can have a conversation about anything and am obsessed with :
+I can have a conversation about anything, like....
 - art & design 📐
 - nature 🌳
 - cinema 🎞️:
