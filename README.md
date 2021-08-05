@@ -50,8 +50,7 @@ A variety of different front-end frameworks to focus on building a more engaging
 - Bulma
 - Svelte
 - Gatsby
--------
-### 📝 Latest Blog Posts:
+
 -------
 ### 🔎 Here are some places where you can find me:
 
