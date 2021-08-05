@@ -26,4 +26,6 @@ A variety of different front-end frameworks to focus on building a more engaging
 
 ### 🔎 Here are some places where you can find me:
 
-📝 [Blog](https://medium.com/@trialsanderrors)  |  🔗 [LinkedIn](https://www.linkedin.com/in/daniel-b-kim-a2b4032a/)  |  🐦 [Twitter](https://twitter.com/darnielbkerm)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
+
+ [Blog](https://medium.com/@trialsanderrors)  |  🔗 [LinkedIn](https://www.linkedin.com/in/daniel-b-kim-a2b4032a/)  |  🐦 [Twitter](https://twitter.com/darnielbkerm)
