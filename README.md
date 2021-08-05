@@ -25,7 +25,7 @@ A variety of different front-end frameworks to focus on building a more engaging
 
 
 ### 🔎 Here are some places where you can find me:
-<img src="https://user-images.githubusercontent.com/78748670/128271537-b01c2761-556c-471f-8a30-df92641060de.png)" width="200" height="400" />
+![medium_icon](https://user-images.githubusercontent.com/78748670/128271727-6e6b3efc-7fc3-4718-9894-517df88ce392.png | width=100px)
 
 
 📝 [Blog](https://medium.com/@trialsanderrors)  |  🔗 [LinkedIn](https://www.linkedin.com/in/daniel-b-kim-a2b4032a/)  |  🐦 [Twitter](https://twitter.com/darnielbkerm)
