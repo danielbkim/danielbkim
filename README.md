@@ -20,41 +20,13 @@ A variety of different front-end frameworks to focus on building a more engaging
 - Bulma
 - Svelte
 - Gatsby
-<!--
-### Projects:
-##### / Potluck Planner - *[ Node.js ]*:
-- Collaborated with back-end team to construct efficient architecture
-- Built out necessary endpoints
-- Developed entire documentation for front-end team to leverage endpoints to deliver appropriate data
 
-##### / Blue Witness - *[ Kanban board & Agile workflow ]*:
-- Spearheaded all cross-functional team standups
-- Distributed tasks as main point-of-contact for each team
-- Kept team accountable by monitoring product deadlines closely
-
-##### / Water My Plants - *[ React.js ]*:
-- Contributed authentication form for users to gain access to app
-- Managed styling and positioning on assigned page
-- Connected with larger team to coordinate feature hand-off and consistency with product at-large
--->
 -------
 
 
 ### 🔎 Here are some places where you can find me:
+
+![medium_icon](https://user-images.githubusercontent.com/78748670/128270956-870b72ca-4e7a-4903-bd35-75e46e2b6efa.png)
+
+
 📝 [Blog](https://medium.com/@trialsanderrors)  |  🔗 [LinkedIn](https://www.linkedin.com/in/daniel-b-kim-a2b4032a/)  |  🐦 [Twitter](https://twitter.com/darnielbkerm)
-
-<!--
-**danielbkim/danielbkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
