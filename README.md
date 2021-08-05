@@ -30,6 +30,6 @@ A variety of different front-end frameworks to focus on building a more engaging
 [<img align="left" width="100px" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" width="100px" alt="medium" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
-[blog]:(https://medium.com/@trialsanderrors)
-[linkedin]:(https://www.linkedin.com/in/daniel-b-kim-a2b4032a/)
-[twitter]:(https://twitter.com/darnielbkerm)
+[blog]: https://medium.com/@trialsanderrors/
+[linkedin]: https://www.linkedin.com/in/daniel-b-kim-a2b4032a/
+[twitter]: https://twitter.com/darnielbkerm/
