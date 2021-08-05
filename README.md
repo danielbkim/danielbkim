@@ -50,9 +50,9 @@ A variety of different front-end frameworks to focus on building a more engaging
 - Bulma
 - Svelte
 - Gatsby
-
 -------
-
+### 📝 Latest Blog Posts:
+-------
 ### 🔎 Here are some places where you can find me:
 
 [<img align="left" width="100px" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
