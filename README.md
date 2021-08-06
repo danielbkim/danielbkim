@@ -46,10 +46,7 @@ I can have a conversation about anything, like....
 
 -------
 ### 🧑‍💻 Currently learning:
-A variety of different front-end frameworks to focus on building a more engaging User Interface for my portfolio.
-- Bulma
-- Svelte
-- Gatsby
+Getting familiar with <img align="left" alt="tailwindcss" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=tailwind&logoColor=white" /> to streamline portfolio
 
 -------
 ### 🔎 Here are some places where you can find me:
