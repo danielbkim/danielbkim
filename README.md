@@ -20,7 +20,6 @@ I can have a conversation about anything, like....
 <img align="left" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-
 <br />
 <br />
 **Stack**:
@@ -51,11 +50,12 @@ Getting familiar with <img align="left" alt="tailwindcss" src="https://img.shiel
 
 -------
 ### 🔎 Here are some places where you can find me:
-<!-- 
-[<img align="left" width="100px" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog] -->
-[<img align="left" width="100px" alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][blog]
+
+[<img align="left" width="100px" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
+<!-- [<img align="left" width="100px" alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][blog] -->
 
 [<img align="left" width="100px" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+<!-- [<img align="left" width="100px" alt="medium" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter] -->
 [<img align="left" width="100px" alt="medium" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
 [blog]: https://medium.com/@trialsanderrors/
