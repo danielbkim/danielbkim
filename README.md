@@ -47,7 +47,7 @@ I can have a conversation about anything, like....
 
 -------
 ### 🧑‍💻 Currently learning:
-Getting familiar with <img align="left" alt="tailwindcss" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=tailwind&logoColor=white" /> to streamline portfolio
+Getting familiar with <img align="left" alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> to streamline portfolio
 
 -------
 ### 🔎 Here are some places where you can find me:
