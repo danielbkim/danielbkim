@@ -1,6 +1,6 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Daniel!  I am a software engineer with a history in Digital Media and an amateur **[ INSERT RANDOM HOBBY HERE ]**.
+My name is Daniel!  I am a software engineer that loves to **[ INSERT RANDOM HOBBY HERE ]**.
 
 I can have a conversation about anything, like....
 - art & design 📐
