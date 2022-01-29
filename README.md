@@ -59,7 +59,7 @@ I can have a conversation about anything, like....
 -------
 
 ### 🧑‍💻 Currently learning: 
-<img align="left" alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<!-- <img align="left" alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> -->
 
 <br />
 <br />
