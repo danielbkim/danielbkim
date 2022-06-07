@@ -1,5 +1,6 @@
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 
+# Hello!
 My name is Daniel!  I am a software engineer that loves to **[ INSERT RANDOM HOBBY HERE ]**.
 
 I can have a conversation about anything, like....
