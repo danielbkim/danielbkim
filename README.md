@@ -59,14 +59,6 @@ I can have a conversation about anything, like....
 
 -------
 
-### 🧑‍💻 Currently learning: 
-<!-- <img align="left" alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> -->
-
-<br />
-<br />
-
--------
-
 ### 🔎 Here are some places where you can find me:
 
 [<img align="left" width="100px" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
